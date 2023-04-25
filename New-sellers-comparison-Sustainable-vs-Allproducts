@@ -1,3 +1,5 @@
+-- With this query we will be able to see how many sustainable buyers there are versus all buyers in 3 different time periods
+
 -- Table that collects all sustainable items 
 
 BEGIN
