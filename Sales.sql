@@ -1,3 +1,5 @@
+-- This query shows Sales per site, month, year and domain_id from sustainable Items
+
 -- Table to collect Item IDs with sustainability requirements 
 
 BEGIN
